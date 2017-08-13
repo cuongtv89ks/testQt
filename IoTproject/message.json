@@ -1,0 +1,19 @@
+{
+  "count": 1,
+  "data": [{"cts": 1501800724861,
+            "data": {"temperature": 241881},
+            "mid": "28a2979c03534168941fbe4fea294e98",
+            "mv": 3,
+            "sdid": "a91b81951a9a4eccb1a919ccd0e5a2c2",
+            "sdtid": "dt8888ced85b524b81a991d712b77433f6",
+            "ts": 1501800724111,
+            "uid": "60411ac947af404196a440b26804be50"}],
+  "end_date": None,
+  "next": None,
+  "order": None,
+  "sdid": None,
+  "sdids": "a91b81951a9a4eccb1a919ccd0e5a2c2",
+  "size": 1,
+  "start_date": None,
+  "uid": None
+}

@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>TitleBar.qml</file>
+        <file>AppSetting.qml</file>
+        <file>BottomLine.qml</file>
+        <file>Connect.qml</file>
+        <file>Measure.qml</file>
+        <file>MyButton.qml</file>
+    </qresource>
+</RCC>

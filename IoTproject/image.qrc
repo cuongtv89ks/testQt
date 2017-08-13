@@ -1,0 +1,437 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/1.jpg</file>
+        <file>Image/2.jpg</file>
+        <file>Image/Simple Weather Icons/0.png</file>
+        <file>Image/Simple Weather Icons/1.png</file>
+        <file>Image/Simple Weather Icons/10.png</file>
+        <file>Image/Simple Weather Icons/11.png</file>
+        <file>Image/Simple Weather Icons/12.png</file>
+        <file>Image/Simple Weather Icons/13.png</file>
+        <file>Image/Simple Weather Icons/14.png</file>
+        <file>Image/Simple Weather Icons/15.png</file>
+        <file>Image/Simple Weather Icons/16.png</file>
+        <file>Image/Simple Weather Icons/17.png</file>
+        <file>Image/Simple Weather Icons/18.png</file>
+        <file>Image/Simple Weather Icons/19.png</file>
+        <file>Image/Simple Weather Icons/2.png</file>
+        <file>Image/Simple Weather Icons/20.png</file>
+        <file>Image/Simple Weather Icons/21.png</file>
+        <file>Image/Simple Weather Icons/22.png</file>
+        <file>Image/Simple Weather Icons/23.png</file>
+        <file>Image/Simple Weather Icons/24.png</file>
+        <file>Image/Simple Weather Icons/25.png</file>
+        <file>Image/Simple Weather Icons/26.png</file>
+        <file>Image/Simple Weather Icons/26.psd</file>
+        <file>Image/Simple Weather Icons/27.png</file>
+        <file>Image/Simple Weather Icons/28.png</file>
+        <file>Image/Simple Weather Icons/29.png</file>
+        <file>Image/Simple Weather Icons/3.png</file>
+        <file>Image/Simple Weather Icons/30.png</file>
+        <file>Image/Simple Weather Icons/31.png</file>
+        <file>Image/Simple Weather Icons/32.png</file>
+        <file>Image/Simple Weather Icons/33.png</file>
+        <file>Image/Simple Weather Icons/34.png</file>
+        <file>Image/Simple Weather Icons/35.png</file>
+        <file>Image/Simple Weather Icons/36.png</file>
+        <file>Image/Simple Weather Icons/37.png</file>
+        <file>Image/Simple Weather Icons/38.png</file>
+        <file>Image/Simple Weather Icons/39.png</file>
+        <file>Image/Simple Weather Icons/4.png</file>
+        <file>Image/Simple Weather Icons/40.png</file>
+        <file>Image/Simple Weather Icons/41.png</file>
+        <file>Image/Simple Weather Icons/42.png</file>
+        <file>Image/Simple Weather Icons/43.png</file>
+        <file>Image/Simple Weather Icons/44.png</file>
+        <file>Image/Simple Weather Icons/45.png</file>
+        <file>Image/Simple Weather Icons/46.png</file>
+        <file>Image/Simple Weather Icons/47.png</file>
+        <file>Image/Simple Weather Icons/5.png</file>
+        <file>Image/Simple Weather Icons/6.png</file>
+        <file>Image/Simple Weather Icons/7.png</file>
+        <file>Image/Simple Weather Icons/8.png</file>
+        <file>Image/Simple Weather Icons/9.png</file>
+        <file>Image/Simple Weather Icons/na.png</file>
+        <file>Image/Simple Weather Icons/Thumbs.db</file>
+        <file>Image/todoList/add-1.png</file>
+        <file>Image/todoList/add-2.png</file>
+        <file>Image/todoList/add-3.png</file>
+        <file>Image/todoList/add.png</file>
+        <file>Image/todoList/agenda.png</file>
+        <file>Image/todoList/alarm-1.png</file>
+        <file>Image/todoList/alarm-clock-1.png</file>
+        <file>Image/todoList/alarm-clock.png</file>
+        <file>Image/todoList/alarm.png</file>
+        <file>Image/todoList/albums.png</file>
+        <file>Image/todoList/app.png</file>
+        <file>Image/todoList/archive-1.png</file>
+        <file>Image/todoList/archive-2.png</file>
+        <file>Image/todoList/archive-3.png</file>
+        <file>Image/todoList/archive.png</file>
+        <file>Image/todoList/attachment.png</file>
+        <file>Image/todoList/back.png</file>
+        <file>Image/todoList/battery-1.png</file>
+        <file>Image/todoList/battery-2.png</file>
+        <file>Image/todoList/battery-3.png</file>
+        <file>Image/todoList/battery-4.png</file>
+        <file>Image/todoList/battery-5.png</file>
+        <file>Image/todoList/battery-6.png</file>
+        <file>Image/todoList/battery-7.png</file>
+        <file>Image/todoList/battery-8.png</file>
+        <file>Image/todoList/battery-9.png</file>
+        <file>Image/todoList/battery.png</file>
+        <file>Image/todoList/binoculars.png</file>
+        <file>Image/todoList/blueprint.png</file>
+        <file>Image/todoList/bluetooth-1.png</file>
+        <file>Image/todoList/bluetooth.png</file>
+        <file>Image/todoList/bookmark-1.png</file>
+        <file>Image/todoList/bookmark.png</file>
+        <file>Image/todoList/briefcase.png</file>
+        <file>Image/todoList/broken-link.png</file>
+        <file>Image/todoList/calculator-1.png</file>
+        <file>Image/todoList/calculator.png</file>
+        <file>Image/todoList/calendar-1.png</file>
+        <file>Image/todoList/calendar-2.png</file>
+        <file>Image/todoList/calendar-3.png</file>
+        <file>Image/todoList/calendar-4.png</file>
+        <file>Image/todoList/calendar-5.png</file>
+        <file>Image/todoList/calendar-6.png</file>
+        <file>Image/todoList/calendar-7.png</file>
+        <file>Image/todoList/calendar.png</file>
+        <file>Image/todoList/checked-1.png</file>
+        <file>Image/todoList/checked.png</file>
+        <file>Image/todoList/clock-1.png</file>
+        <file>Image/todoList/clock.png</file>
+        <file>Image/todoList/close.png</file>
+        <file>Image/todoList/cloud-computing-1.png</file>
+        <file>Image/todoList/cloud-computing-2.png</file>
+        <file>Image/todoList/cloud-computing-3.png</file>
+        <file>Image/todoList/cloud-computing-4.png</file>
+        <file>Image/todoList/cloud-computing-5.png</file>
+        <file>Image/todoList/cloud-computing.png</file>
+        <file>Image/todoList/cloud.png</file>
+        <file>Image/todoList/command.png</file>
+        <file>Image/todoList/compact-disc-1.png</file>
+        <file>Image/todoList/compact-disc-2.png</file>
+        <file>Image/todoList/compact-disc.png</file>
+        <file>Image/todoList/compass.png</file>
+        <file>Image/todoList/compose.png</file>
+        <file>Image/todoList/controls-1.png</file>
+        <file>Image/todoList/controls-2.png</file>
+        <file>Image/todoList/controls-3.png</file>
+        <file>Image/todoList/controls-4.png</file>
+        <file>Image/todoList/controls-5.png</file>
+        <file>Image/todoList/controls-6.png</file>
+        <file>Image/todoList/controls-7.png</file>
+        <file>Image/todoList/controls-8.png</file>
+        <file>Image/todoList/controls-9.png</file>
+        <file>Image/todoList/controls.png</file>
+        <file>Image/todoList/database-1.png</file>
+        <file>Image/todoList/database-2.png</file>
+        <file>Image/todoList/database-3.png</file>
+        <file>Image/todoList/database.png</file>
+        <file>Image/todoList/diamond.png</file>
+        <file>Image/todoList/diploma.png</file>
+        <file>Image/todoList/dislike-1.png</file>
+        <file>Image/todoList/dislike.png</file>
+        <file>Image/todoList/divide-1.png</file>
+        <file>Image/todoList/divide.png</file>
+        <file>Image/todoList/division.png</file>
+        <file>Image/todoList/document.png</file>
+        <file>Image/todoList/download.png</file>
+        <file>Image/todoList/edit-1.png</file>
+        <file>Image/todoList/edit.png</file>
+        <file>Image/todoList/eject-1.png</file>
+        <file>Image/todoList/eject.png</file>
+        <file>Image/todoList/equal-1.png</file>
+        <file>Image/todoList/equal-2.png</file>
+        <file>Image/todoList/equal.png</file>
+        <file>Image/todoList/error.png</file>
+        <file>Image/todoList/exit-1.png</file>
+        <file>Image/todoList/exit-2.png</file>
+        <file>Image/todoList/exit.png</file>
+        <file>Image/todoList/eyeglasses.png</file>
+        <file>Image/todoList/fast-forward-1.png</file>
+        <file>Image/todoList/fast-forward.png</file>
+        <file>Image/todoList/fax.png</file>
+        <file>Image/todoList/file-1.png</file>
+        <file>Image/todoList/file-2.png</file>
+        <file>Image/todoList/file.png</file>
+        <file>Image/todoList/film.png</file>
+        <file>Image/todoList/fingerprint.png</file>
+        <file>Image/todoList/flag-1.png</file>
+        <file>Image/todoList/flag-2.png</file>
+        <file>Image/todoList/flag-3.png</file>
+        <file>Image/todoList/flag-4.png</file>
+        <file>Image/todoList/flag.png</file>
+        <file>Image/todoList/focus.png</file>
+        <file>Image/todoList/folder-1.png</file>
+        <file>Image/todoList/folder-10.png</file>
+        <file>Image/todoList/folder-11.png</file>
+        <file>Image/todoList/folder-12.png</file>
+        <file>Image/todoList/folder-13.png</file>
+        <file>Image/todoList/folder-14.png</file>
+        <file>Image/todoList/folder-15.png</file>
+        <file>Image/todoList/folder-16.png</file>
+        <file>Image/todoList/folder-17.png</file>
+        <file>Image/todoList/folder-18.png</file>
+        <file>Image/todoList/folder-19.png</file>
+        <file>Image/todoList/folder-2.png</file>
+        <file>Image/todoList/folder-3.png</file>
+        <file>Image/todoList/folder-4.png</file>
+        <file>Image/todoList/folder-5.png</file>
+        <file>Image/todoList/folder-6.png</file>
+        <file>Image/todoList/folder-7.png</file>
+        <file>Image/todoList/folder-8.png</file>
+        <file>Image/todoList/folder-9.png</file>
+        <file>Image/todoList/folder.png</file>
+        <file>Image/todoList/forbidden.png</file>
+        <file>Image/todoList/funnel.png</file>
+        <file>Image/todoList/garbage-1.png</file>
+        <file>Image/todoList/garbage-2.png</file>
+        <file>Image/todoList/garbage.png</file>
+        <file>Image/todoList/gift.png</file>
+        <file>Image/todoList/help.png</file>
+        <file>Image/todoList/hide.png</file>
+        <file>Image/todoList/hold.png</file>
+        <file>Image/todoList/home-1.png</file>
+        <file>Image/todoList/home-2.png</file>
+        <file>Image/todoList/home.png</file>
+        <file>Image/todoList/hourglass-1.png</file>
+        <file>Image/todoList/hourglass-2.png</file>
+        <file>Image/todoList/hourglass-3.png</file>
+        <file>Image/todoList/hourglass.png</file>
+        <file>Image/todoList/house.png</file>
+        <file>Image/todoList/id-card-1.png</file>
+        <file>Image/todoList/id-card-2.png</file>
+        <file>Image/todoList/id-card-3.png</file>
+        <file>Image/todoList/id-card-4.png</file>
+        <file>Image/todoList/id-card-5.png</file>
+        <file>Image/todoList/id-card.png</file>
+        <file>Image/todoList/idea.png</file>
+        <file>Image/todoList/incoming.png</file>
+        <file>Image/todoList/infinity.png</file>
+        <file>Image/todoList/info.png</file>
+        <file>Image/todoList/internet.png</file>
+        <file>Image/todoList/key.png</file>
+        <file>Image/todoList/lamp.png</file>
+        <file>Image/todoList/layers-1.png</file>
+        <file>Image/todoList/layers.png</file>
+        <file>Image/todoList/like-1.png</file>
+        <file>Image/todoList/like-2.png</file>
+        <file>Image/todoList/like.png</file>
+        <file>Image/todoList/link.png</file>
+        <file>Image/todoList/list-1.png</file>
+        <file>Image/todoList/list.png</file>
+        <file>Image/todoList/lock-1.png</file>
+        <file>Image/todoList/lock.png</file>
+        <file>Image/todoList/locked-1.png</file>
+        <file>Image/todoList/locked-2.png</file>
+        <file>Image/todoList/locked-3.png</file>
+        <file>Image/todoList/locked-4.png</file>
+        <file>Image/todoList/locked-5.png</file>
+        <file>Image/todoList/locked-6.png</file>
+        <file>Image/todoList/locked.png</file>
+        <file>Image/todoList/login.png</file>
+        <file>Image/todoList/magic-wand.png</file>
+        <file>Image/todoList/magnet-1.png</file>
+        <file>Image/todoList/magnet-2.png</file>
+        <file>Image/todoList/magnet.png</file>
+        <file>Image/todoList/map-1.png</file>
+        <file>Image/todoList/map-2.png</file>
+        <file>Image/todoList/map-location.png</file>
+        <file>Image/todoList/map.png</file>
+        <file>Image/todoList/megaphone-1.png</file>
+        <file>Image/todoList/megaphone.png</file>
+        <file>Image/todoList/menu-1.png</file>
+        <file>Image/todoList/menu-2.png</file>
+        <file>Image/todoList/menu-3.png</file>
+        <file>Image/todoList/menu-4.png</file>
+        <file>Image/todoList/menu.png</file>
+        <file>Image/todoList/microphone-1.png</file>
+        <file>Image/todoList/microphone.png</file>
+        <file>Image/todoList/minus-1.png</file>
+        <file>Image/todoList/minus.png</file>
+        <file>Image/todoList/more-1.png</file>
+        <file>Image/todoList/more-2.png</file>
+        <file>Image/todoList/more.png</file>
+        <file>Image/todoList/multiply-1.png</file>
+        <file>Image/todoList/multiply.png</file>
+        <file>Image/todoList/music-player-1.png</file>
+        <file>Image/todoList/music-player-2.png</file>
+        <file>Image/todoList/music-player-3.png</file>
+        <file>Image/todoList/music-player.png</file>
+        <file>Image/todoList/mute.png</file>
+        <file>Image/todoList/muted.png</file>
+        <file>Image/todoList/navigation-1.png</file>
+        <file>Image/todoList/navigation.png</file>
+        <file>Image/todoList/network.png</file>
+        <file>Image/todoList/newspaper.png</file>
+        <file>Image/todoList/next.png</file>
+        <file>Image/todoList/note.png</file>
+        <file>Image/todoList/notebook-1.png</file>
+        <file>Image/todoList/notebook-2.png</file>
+        <file>Image/todoList/notebook-3.png</file>
+        <file>Image/todoList/notebook-4.png</file>
+        <file>Image/todoList/notebook-5.png</file>
+        <file>Image/todoList/notebook.png</file>
+        <file>Image/todoList/notepad-1.png</file>
+        <file>Image/todoList/notepad-2.png</file>
+        <file>Image/todoList/notepad.png</file>
+        <file>Image/todoList/notification.png</file>
+        <file>Image/todoList/paper-plane-1.png</file>
+        <file>Image/todoList/paper-plane.png</file>
+        <file>Image/todoList/pause-1.png</file>
+        <file>Image/todoList/pause.png</file>
+        <file>Image/todoList/percent-1.png</file>
+        <file>Image/todoList/percent.png</file>
+        <file>Image/todoList/perspective.png</file>
+        <file>Image/todoList/photo-camera-1.png</file>
+        <file>Image/todoList/photo-camera.png</file>
+        <file>Image/todoList/photos.png</file>
+        <file>Image/todoList/picture-1.png</file>
+        <file>Image/todoList/picture-2.png</file>
+        <file>Image/todoList/picture.png</file>
+        <file>Image/todoList/pin.png</file>
+        <file>Image/todoList/placeholder-1.png</file>
+        <file>Image/todoList/placeholder-2.png</file>
+        <file>Image/todoList/placeholder-3.png</file>
+        <file>Image/todoList/placeholder.png</file>
+        <file>Image/todoList/placeholders.png</file>
+        <file>Image/todoList/play-button-1.png</file>
+        <file>Image/todoList/play-button.png</file>
+        <file>Image/todoList/plus.png</file>
+        <file>Image/todoList/power.png</file>
+        <file>Image/todoList/previous.png</file>
+        <file>Image/todoList/price-tag.png</file>
+        <file>Image/todoList/print.png</file>
+        <file>Image/todoList/push-pin.png</file>
+        <file>Image/todoList/radar.png</file>
+        <file>Image/todoList/reading.png</file>
+        <file>Image/todoList/record.png</file>
+        <file>Image/todoList/repeat-1.png</file>
+        <file>Image/todoList/repeat.png</file>
+        <file>Image/todoList/restart.png</file>
+        <file>Image/todoList/resume.png</file>
+        <file>Image/todoList/rewind-1.png</file>
+        <file>Image/todoList/rewind.png</file>
+        <file>Image/todoList/route.png</file>
+        <file>Image/todoList/save.png</file>
+        <file>Image/todoList/search-1.png</file>
+        <file>Image/todoList/search.png</file>
+        <file>Image/todoList/send.png</file>
+        <file>Image/todoList/server-1.png</file>
+        <file>Image/todoList/server-2.png</file>
+        <file>Image/todoList/server-3.png</file>
+        <file>Image/todoList/server.png</file>
+        <file>Image/todoList/settings-1.png</file>
+        <file>Image/todoList/settings-2.png</file>
+        <file>Image/todoList/settings-3.png</file>
+        <file>Image/todoList/settings-4.png</file>
+        <file>Image/todoList/settings-5.png</file>
+        <file>Image/todoList/settings-6.png</file>
+        <file>Image/todoList/settings-7.png</file>
+        <file>Image/todoList/settings-8.png</file>
+        <file>Image/todoList/settings-9.png</file>
+        <file>Image/todoList/settings.png</file>
+        <file>Image/todoList/share-1.png</file>
+        <file>Image/todoList/share-2.png</file>
+        <file>Image/todoList/share.png</file>
+        <file>Image/todoList/shuffle-1.png</file>
+        <file>Image/todoList/shuffle.png</file>
+        <file>Image/todoList/shutdown.png</file>
+        <file>Image/todoList/sign-1.png</file>
+        <file>Image/todoList/sign.png</file>
+        <file>Image/todoList/skip.png</file>
+        <file>Image/todoList/smartphone-1.png</file>
+        <file>Image/todoList/smartphone-10.png</file>
+        <file>Image/todoList/smartphone-11.png</file>
+        <file>Image/todoList/smartphone-2.png</file>
+        <file>Image/todoList/smartphone-3.png</file>
+        <file>Image/todoList/smartphone-4.png</file>
+        <file>Image/todoList/smartphone-5.png</file>
+        <file>Image/todoList/smartphone-6.png</file>
+        <file>Image/todoList/smartphone-7.png</file>
+        <file>Image/todoList/smartphone-8.png</file>
+        <file>Image/todoList/smartphone-9.png</file>
+        <file>Image/todoList/smartphone.png</file>
+        <file>Image/todoList/speaker-1.png</file>
+        <file>Image/todoList/speaker-2.png</file>
+        <file>Image/todoList/speaker-3.png</file>
+        <file>Image/todoList/speaker-4.png</file>
+        <file>Image/todoList/speaker-5.png</file>
+        <file>Image/todoList/speaker-6.png</file>
+        <file>Image/todoList/speaker-7.png</file>
+        <file>Image/todoList/speaker-8.png</file>
+        <file>Image/todoList/speaker.png</file>
+        <file>Image/todoList/spotlight.png</file>
+        <file>Image/todoList/star-1.png</file>
+        <file>Image/todoList/star.png</file>
+        <file>Image/todoList/stop-1.png</file>
+        <file>Image/todoList/stop.png</file>
+        <file>Image/todoList/stopwatch-1.png</file>
+        <file>Image/todoList/stopwatch-2.png</file>
+        <file>Image/todoList/stopwatch-3.png</file>
+        <file>Image/todoList/stopwatch-4.png</file>
+        <file>Image/todoList/stopwatch.png</file>
+        <file>Image/todoList/street-1.png</file>
+        <file>Image/todoList/street.png</file>
+        <file>Image/todoList/substract-1.png</file>
+        <file>Image/todoList/substract.png</file>
+        <file>Image/todoList/success.png</file>
+        <file>Image/todoList/switch-1.png</file>
+        <file>Image/todoList/switch-2.png</file>
+        <file>Image/todoList/switch-3.png</file>
+        <file>Image/todoList/switch-4.png</file>
+        <file>Image/todoList/switch-5.png</file>
+        <file>Image/todoList/switch-6.png</file>
+        <file>Image/todoList/switch-7.png</file>
+        <file>Image/todoList/switch.png</file>
+        <file>Image/todoList/tabs-1.png</file>
+        <file>Image/todoList/tabs.png</file>
+        <file>Image/todoList/target.png</file>
+        <file>Image/todoList/television-1.png</file>
+        <file>Image/todoList/television.png</file>
+        <file>Image/todoList/time.png</file>
+        <file>Image/todoList/trash.png</file>
+        <file>Image/todoList/umbrella.png</file>
+        <file>Image/todoList/unlink.png</file>
+        <file>Image/todoList/unlocked-1.png</file>
+        <file>Image/todoList/unlocked-2.png</file>
+        <file>Image/todoList/unlocked.png</file>
+        <file>Image/todoList/upload.png</file>
+        <file>Image/todoList/user-1.png</file>
+        <file>Image/todoList/user-2.png</file>
+        <file>Image/todoList/user-3.png</file>
+        <file>Image/todoList/user-4.png</file>
+        <file>Image/todoList/user-5.png</file>
+        <file>Image/todoList/user-6.png</file>
+        <file>Image/todoList/user-7.png</file>
+        <file>Image/todoList/user.png</file>
+        <file>Image/todoList/users-1.png</file>
+        <file>Image/todoList/users.png</file>
+        <file>Image/todoList/video-camera-1.png</file>
+        <file>Image/todoList/video-camera.png</file>
+        <file>Image/todoList/video-player-1.png</file>
+        <file>Image/todoList/video-player-2.png</file>
+        <file>Image/todoList/video-player.png</file>
+        <file>Image/todoList/view-1.png</file>
+        <file>Image/todoList/view-2.png</file>
+        <file>Image/todoList/view.png</file>
+        <file>Image/todoList/volume-control-1.png</file>
+        <file>Image/todoList/volume-control.png</file>
+        <file>Image/todoList/warning.png</file>
+        <file>Image/todoList/wifi-1.png</file>
+        <file>Image/todoList/wifi.png</file>
+        <file>Image/todoList/windows-1.png</file>
+        <file>Image/todoList/windows-2.png</file>
+        <file>Image/todoList/windows-3.png</file>
+        <file>Image/todoList/windows-4.png</file>
+        <file>Image/todoList/windows.png</file>
+        <file>Image/todoList/wireless-internet.png</file>
+        <file>Image/todoList/worldwide-1.png</file>
+        <file>Image/todoList/worldwide.png</file>
+        <file>Image/todoList/zoom-in.png</file>
+        <file>Image/todoList/zoom-out.png</file>
+    </qresource>
+</RCC>
